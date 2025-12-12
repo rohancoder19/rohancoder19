@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on daily leetcode problems and solve DSA problems.I am a B.Tech student pursuing Narula Institute of Technology in electronics and computer science
+B.Tech student in Electronics and Computer Science at Narula Institute of Technology. Focused on strengthening foundational skills by solving daily LeetCode problems and practicing Data Structures and Algorithms (DSA).
 
 
 ## 🌐 Socials:
