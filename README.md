@@ -1,45 +1,20 @@
-# 👋 Hi, I'm Rohan Majumdar  
+# 💫 About Me:
+B.Tech student in Electronics and Computer Science at Narula Institute of Technology. Focused on strengthening foundational skills by solving daily LeetCode problems and practicing Data Structures and Algorithms (DSA).
 
-🎓 **B.Tech in Electronics & Computer Science**  
-📍 Narula Institute of Technology  
 
-🚀 Passionate about **problem-solving, DSA, and core CS fundamentals**  
-🧠 Solving **LeetCode daily** to sharpen logic and algorithmic thinking  
-⚙️ Interested in **C++, Java, Embedded Systems & Robotics**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-majumdar-774852359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanmaj.jpg@gmail.com) 
 
----
-
-## 🧩 What I'm Currently Doing
-- 🔹 Practicing **DSA & Competitive Programming**
-- 🔹 Strengthening **C++ STL & Core Java**
-- 🔹 Exploring **ESP32, IoT & Robotics projects**
-- 🔹 Building consistency with daily coding 💪
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohancoder19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohancoder19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohancoder19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rohancoder19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-majumdar-774852359)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rohanmaj.jpg@gmail.com)
-
----
-
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rohancoder19&theme=tokyonight&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rohancoder19&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohancoder19&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=rohancoder19&icon=5&color=12)
-
-✨ *Consistency beats talent when talent isn’t consistent.*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+//make it more unique for my github
 
