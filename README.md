@@ -37,11 +37,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake animation](https://raw.githubusercontent.com/rohancoder19/rohancoder19/output/github-contribution-grid-snake.svg)
-
----
-
 ## 👀 Profile Views
 ![Visitor Count](https://visitcount.itsvg.in/api?id=rohancoder19&icon=5&color=12)
 
