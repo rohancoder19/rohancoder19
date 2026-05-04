@@ -14,15 +14,4 @@ B.Tech student in Electronics and Computer Science at Narula Institute of Techno
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohancoder19&theme=dark" alt="GitHub Streak" height="180" />
 </div>
 
-### 🛠 Top Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohancoder19&theme=dark&layout=compact" alt="Top Languages" />
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rohancoder19&icon=0&color=0" alt="Visitor Count" />
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=rohancoder19&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
