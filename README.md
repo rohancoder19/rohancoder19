@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech student in Electronics and Computer Science at Narula Institute of Technology. Focused on strengthening foundational skills by solving daily LeetCode problems and practicing Data Structures and Algorithms (DSA).
+B.Tech student in Electronics and Computer Science at Narula Institute of Technology. Focused on strengthening foundational skills by solving daily LeetCode and Unstop problems and practicing Data Structures and Algorithms (DSA).
 
 
 ## 🌐 Socials:
