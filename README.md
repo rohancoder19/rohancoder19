@@ -10,7 +10,7 @@ B.Tech student in Electronics and Computer Science at Narula Institute of Techno
 # 📊 GitHub Stats:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohancoder19&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohancoder19&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohancoder19&theme=dark" alt="GitHub Streak" height="180" />
 </div>
 
