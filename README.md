@@ -1,5 +1,5 @@
 # 💫 About Me
-I am a B.Tech student in Electronics and Computer Science at Narula Institute of Technology. I am focused on strengthening my foundational skills by solving daily LeetCode and Unstop problems and consistently practicing Data Structures and Algorithms (DSA).
+I am a B.Tech student in Electronics and Computer Science at Narula Institute of Technology with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, Embedded Systems and IoT.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-majumdar-774852359) 
