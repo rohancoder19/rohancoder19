@@ -27,7 +27,7 @@ I am a B.Tech student in Electronics and Computer Science at Narula Institute of
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohancoder19&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohancoder19&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
