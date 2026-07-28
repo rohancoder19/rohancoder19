@@ -144,5 +144,7 @@ If you like my projects, consider giving them a ⭐
 ### Thanks for Visiting ❤️
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&width=500&lines=Happy+Coding!;Keep+Learning!;Build+Amazing+Things!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer"/>
+
 
 </div>
