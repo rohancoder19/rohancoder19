@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rohan Majumdar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+ECS+Student;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Embedded+Systems+%26+IoT;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=8A2BE2&center=true&width=700&lines=B.Tech+ECS+Student;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Embedded+Systems+%26+IoT;;Always+Learning+New+Technologies!"/>
 
 <img src="https://komarev.com/ghpvc/?username=rohancoder19&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
