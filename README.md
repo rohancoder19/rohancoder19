@@ -22,7 +22,7 @@
 
 💻 Building **Full Stack Applications**
 
-📱 Flutter App Developer
+📱 FULL-STACK Developer
 
 ⚡ Embedded Systems & IoT Enthusiast
 
