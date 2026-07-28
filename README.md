@@ -1,33 +1,21 @@
-# 💫 About Me
-I am a B.Tech student in Electronics and Computer Science at Narula Institute of Technology with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, Embedded Systems and IoT.
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:3776AB,100:00979D&height=220&section=header&text=Hi%20There,%20I'm%20Rohan%20Majumdar%20👋&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Computer%20Science%20Student%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+</p>
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-majumdar-774852359) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohanmaj.jpg@gmail.com) 
+<!-- Animated Typing Text -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+Student+%40+Narula+Institute+of+Technology;AI+%26+Machine+Learning+Enthusiast;Full-Stack+%26+Cross-Platform+Developer;Embedded+Systems+%26+IoT+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+<br />
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-</p>
+## 💫 About Me
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohancoder19&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohancoder19&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+```text
+🚀 Building smart hardware-software solutions at the intersection of AI, Web, and Embedded Systems.
 
