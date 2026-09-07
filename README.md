@@ -110,16 +110,6 @@
 
 ---
 
-# 🌅 Contribution Story
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohancoder19&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
----
-
 # 🐍 Growing One Contribution at a Time
 
 <div align="center">
