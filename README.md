@@ -1,150 +1,171 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rohan Majumdar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2418,50:B45309,100:F59E0B&height=220&section=header&text=ROHAN%20MAJUMDAR&fontSize=46&fontColor=FFF7ED&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20%7C%20IoT&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=8A2BE2&center=true&width=700&lines=B.Tech+ECS+Student;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Embedded+Systems+%26+IoT;;Always+Learning+New+Technologies!"/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=rohancoder19&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=750&lines=B.Tech+ECS+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+%26+IoT+Enthusiast+%E2%9A%A1;Building+Ideas+Into+Reality+%E2%98%95"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rohancoder19&label=PROFILE+VISITORS&color=B45309&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# ☕ Hello, I'm Rohan
 
-🎓 B.Tech student in **Electronics & Computer Science**
+### *A developer who loves turning ideas into useful technology.*
 
-🏫 Narula Institute of Technology
+</div>
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+<table>
+<tr>
+<td width="60%">
+
+## 🌿 A Little About Me
+
+🎓 **B.Tech — Electronics & Computer Science**
+
+🏫 **Narula Institute of Technology**
+
+🤖 Exploring **AI & Machine Learning**
 
 💻 Building **Full Stack Applications**
 
-📱 FULL-STACK Developer
+⚡ Exploring **Embedded Systems & IoT**
 
-⚡ Embedded Systems & IoT Enthusiast
+☁️ Learning **Cloud & Modern Technologies**
 
-🌱 Currently learning
+🎯 **Goal:** Build technology that makes a real-world difference.
 
-- Deep Learning
-- Generative AI
-- Computer Vision
-- System Design
-- Cloud Computing
+</td>
 
-🎯 Goal
+<td width="40%">
 
-> Build AI products that solve real-world problems.
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/rohan-majumdar-774852359">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rohanmaj.jpg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript,html,css"/>
-
-</p>
-
-### Frameworks & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,firebase,git,github,vscode,arduino"/>
-
-</p>
-
-### Cloud & AI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohancoder19&theme=one-dark" />
-</p>
-
----
-
-
-# ⚡ Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/rohancoder19">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/rohan-majumdar-774852359">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-# 💻 Developer Quote
+## 🍂 What I'm Exploring
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat." 🚀**
+|    🧠 AI & ML   | 💻 Development |    ⚡ Innovation    |
+| :-------------: | :------------: | :----------------: |
+|  Deep Learning  |   Full Stack   |         IoT        |
+|  Generative AI  |     Flutter    |  Embedded Systems  |
+| Computer Vision |      Cloud     | Smart Applications |
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🧰 My Toolbox
+
+### 👨‍💻 Languages
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,dart,html,css&perline=8"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+### 🛠️ Frameworks & Tools
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,firebase,git,github,vscode,arduino&perline=8"/>
+</p>
+
+### ☁️ Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp"/>
 </p>
 
 ---
 
-# ☕ Support Me
+# 📊 My GitHub Journey
 
-<p align="center">
+<div align="center">
 
-If you like my projects, consider giving them a ⭐
+<img src="https://github-readme-stats.vercel.app/api?username=rohancoder19&show_icons=true&hide_border=true&theme=transparent&title_color=B45309&icon_color=D97706&text_color=78350F&bg_color=00000000"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohancoder19&layout=compact&hide_border=true&theme=transparent&title_color=B45309&text_color=78350F&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohancoder19&theme=transparent&hide_border=true&ring=B45309&fire=EA580C&currStreakLabel=B45309"/>
+
+</div>
+
+---
+
+# 🌅 Contribution Story
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohancoder19&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Growing One Contribution at a Time
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/rohancoder19">
+<img src="https://img.shields.io/badge/GitHub-3B2418?style=for-the-badge&logo=github&logoColor=FFF7ED"/>
+</a>
+
+<a href="https://linkedin.com/in/rohan-majumdar-774852359">
+<img src="https://img.shields.io/badge/LinkedIn-B45309?style=for-the-badge&logo=linkedin&logoColor=FFF7ED"/>
+</a>
+
+<a href="mailto:rohanmaj.jpg@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=FFF7ED"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for Visiting ❤️
+## ☕ Developer Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&width=500&lines=Happy+Coding!;Keep+Learning!;Build+Amazing+Things!"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer"/>
+### *"Code with curiosity. Build with purpose."*
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3200&pause=1000&color=92400E&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;Small+steps.+Big+ideas.;Creating+something+better+every+day+%F0%9F%8C%B1"/>
+
+<br><br>
+
+**⭐ Like something I built? Give it a star!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2418,50:B45309,100:F59E0B&height=120&section=footer"/>
 
 </div>
